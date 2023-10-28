@@ -1,2 +1,3 @@
-# Oil
-Первый репозиторий для обучения гиту
+def hello():
+    print("Hello world")
+hello()
